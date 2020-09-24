@@ -1,1 +1,1 @@
-# Introduction-to-Machine-Learning-by-Andrew-Ng-Coursera-Assignments
+# Assignments: Introduction to Machine Learning by Andrew Ng (Coursera)
